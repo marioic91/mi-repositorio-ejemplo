@@ -1,1 +1,2 @@
 Este es un archivo de ejemplo para la clase de Introduccion a GIT y GitHub.
+Esta es una segunda linea en el branch nueva-funcionalidad
